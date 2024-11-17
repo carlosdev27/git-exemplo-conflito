@@ -9,3 +9,6 @@ Cereja
 Acerola
 banana
 Melancia
+Jaca
+Jambu
+
