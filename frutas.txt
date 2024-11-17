@@ -6,5 +6,6 @@ Jaca
 Cacau
 Graviola
 Cereja
-Acerola
+Jaca
+Jambu
 
