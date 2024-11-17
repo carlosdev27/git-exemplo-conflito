@@ -3,3 +3,4 @@ Maçã
 Pera
 Banana
 Jaca
+frutas1.txt
