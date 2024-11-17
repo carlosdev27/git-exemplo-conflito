@@ -5,4 +5,6 @@ Banana
 Jaca
 Cacau
 Graviola
+Cereja
+Acerola
 
