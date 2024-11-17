@@ -7,4 +7,5 @@ Cacau
 Graviola
 Cereja
 Acerola
-
+banana
+Melancia
